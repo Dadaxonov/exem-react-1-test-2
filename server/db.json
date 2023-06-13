@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nivea Care",
+      "category": "classic",
+      "price": "100",
+      "img": "https://images.uzum.uz/cgns2sj57mg9720e18q0/t_product_540_high.jpg#1686501587783"
+    },
+    {
+      "id": 2,
+      "name": "Brand Renee Cosmetics",
+      "category": "new",
+      "price": 36,
+      "img": "https://images.uzum.uz/cceok2ibedg1tn8rjbi0/t_product_540_high.jpg#1686501587779"
+    },
+    {
+      "id": 3,
+      "name": "Nivea Care",
+      "category": "classic",
+      "price": 40,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXZMYzoDRqN7HPJUzQbYBze74I4uvooaFAFWoU-u1bubwkXVGo2kVjX-mtJgWofYma0g&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Maceup Blog",
+      "category": "classic",
+      "price": 10,
+      "img": "https://makeup.uz/uploads/content/1491461152_3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nivea Cream Care",
+      "category": "Nimadur",
+      "price": 50,
+      "img": "https://images.uzum.uz/cc88ggeha8816arta5l0/t_product_540_high.jpg#1686501587773"
+    },
+    {
+      "id": 6,
+      "name": "Pomada",
+      "category": "new",
+      "price": 53,
+      "img": "https://tvoy.kz/images/detailed/28/2-00002691-gubnaya-pomada-luxvisage-pin-up-ultra-matt--506-nicole-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Shampun Header & Shoulder",
+      "category": "new",
+      "price": 18,
+      "img": "https://images.uzum.uz/cc8v9t6ha882pdjubn6g/original.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cleansing Foam",
+      "category": "Nimadur",
+      "price": 69,
+      "img": "https://images.uzum.uz/ce7miv8v1htd23aiqcv0/original.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hiisees",
+      "category": "classic",
+      "price": 39,
+      "img": "https://images.uzum.uz/cf2i06qvtie1lhbgtar0/t_product_540_high.jpg#1686501587793"
+    }
+  ]
+}
